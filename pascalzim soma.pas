@@ -1,5 +1,5 @@
 Program Soma ;
-{ Primeiramente fazer as variaveis e seus tipos no caso: a variável o nome da variável, e o tipo que no caso é inteiro}
+{ Primeiramente fazer as variaveis e seus tipos: a variável o nome da variável e o tipo que no caso é inteiro}
 
  var numb1,numb2,soma : integer;
 
