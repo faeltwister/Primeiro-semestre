@@ -5,16 +5,15 @@ Algoritmo "logica"
 // Data atual  : 22/02/2022
 Var
 // Seção de Declarações das variáveis 
-  msg : Caracter;
+
   fala: Caracter;
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
- msg <- ("Hello World! Primeiro programa em VisualALG")
-   Escreval(msg)
+ Escreval("Hello World! Primeiro programa em VisualALG")
    Escreval("Escreva algo: ")
-   leia (fala)
-   Escreval("Você digitou: " , fala)
+   leia (fala)                 //'fala' foi atribuído um valor ao escrever
+   Escreval("Você digitou: " , fala)   //podendo ser lido após
    
 
 
