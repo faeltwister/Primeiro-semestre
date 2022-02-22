@@ -1,6 +1,6 @@
 Algoritmo "logica"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Descrição   : Programa para escrever na tela
+// Descrição   : Programa para escrever na tela a escrita
 // Autor(a)    : Rafael Oliveira
 // Data atual  : 22/02/2022
 Var
