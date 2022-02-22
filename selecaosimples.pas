@@ -1,17 +1,20 @@
 Program AlgoritmoDeSelecaoSimples ;
-		var x,y : string;
+		var x : string;
 	
-						 {Exemplo com apenas 1 instru��o na tela}
+						 {Exemplo com apenas 1 instrução na tela usando if e else}
 Begin
-        Writeln('Bom dia! � hora de acordar.');      
+        Writeln('Bom dia! é hora de acordar.');      
         Writeln('...........................');
-        Writeln('O caf� da Manh� est� pronto!');
+        Writeln('O café da Manhã está pronto!');
         Writeln('...........................');
-        Writeln('Voc� vai � praia ? (s) ou (n)');
-        readln (x);
+	Writeln('Você vai à praia ? (s) ou (n)');  	
+	readln (x);			 {<< Como é apenas uma instrução simples com o uso de if. Se o usuario digitar 's' minúsculo ou 'S' maiúsculo ambos serão verdadeiras.}
         if ((x='s') or (x='S')) then
-        	writeln ('Ahh... que pena que n�o sou humano para curtir a praia =(' )
-				else
-					Writeln ('Uhull...vem x1 no xadrez ent�o! ')  ;
+        	writeln ('Ahh... que pena que não sou humano para curtir a praia =(' )   
+		else				    {<<< Caso o usario digite uma outra tecla além de 's' ou 'S' a escolha será a opção 2 de não ir à praia. }
+					Writeln ('Uhull...vem x1 no xadrez então! ')  ;
 
 End.
+
+
+					
