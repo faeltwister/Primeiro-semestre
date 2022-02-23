@@ -1,27 +1,27 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "IdadeAno"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Guanabara
-// Descrição   : Programa para contagem de idade com função SE
+// DescriÃ§Ã£o   : Programa para contagem de idade com funÃ§Ã£o SE
 // Autor(a)    : Rafael
 // Data atual  : 23/02/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
        ano,nascimento,idade : inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
 
-       escreval ("Em que ano nós estamos? ")
+       escreval ("Em que ano nÃ³s estamos? ")
        leia(ano)
-       escreval("Em que ano você nasceu? ")
+       escreval("Em que ano vocÃª nasceu? ")
        leia (nascimento)
        idade<-ano-nascimento
-       escreva("Em", ano, " você terá ",idade, " anos")
+       escreva("Em", ano, " vocÃª terÃ¡ ",idade, " anos")
        se (idade>21) entao
-          escreva(" e já atingiu a maior idade")
+          escreva(" e jÃ¡ atingiu a maior idade")
        senao
-           escreva (" e você ainda é menor de idade" )
+           escreva (" e vocÃª ainda Ã© menor de idade" )
        fimse
 
 
