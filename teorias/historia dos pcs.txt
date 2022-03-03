@@ -1,0 +1,13 @@
+história dos computadores:
+A resolução de problemas e a motivação era o calculo. Na história sempre houveram calculos. No século
+17 surgiu a primeira calculadora mecânica. Depois pascal criou outra só que não realizava multiplicação.
+Para calcular a multiplicação utilizava o método do vai 1. Herman aproveitou os cartões perfurados pra realizar operações matemática e
+seu objetivo era processamento de dados volumosos. Herman foi o pioneiro que deu origem a IBM. muitos avanços houveram
+ e muitos físicos queriam resolvr problemas da física e por isso formentaram a criação
+dos computadores digitais. Claude Shannon percebeu a relação da  lógica com circuitos elétricos.
+Os primeiros Computadores eletrônicos surgiram na década de 40.Eram computadores colossais pesavam toneladas.
+A motivação para criação desses computadores foi a segunda guerra mundial para quebrar códigos criptografados
+transmitidos pelos alemãos. Em 1946 surgiu o ENIAC. era programavel com 6 mil plux e valvulas. 1000x mais rápido.
+O próximo passo foi a armazenagem de programa em memória, assim não seria mais necessario a programação por valvulas e plux.
+Neuman documentou uma arquitetura de computador que suportaria essa adaptação. : memória <> unidade de controle <>Unidade aritimética e lógica (acumulador) <Entrada > Saída
+depois foram criados os transistores e circuitos integrados. até os dias atuais houve melhorias e está menores e mais potentes. A motivação sempre foi a resolução de calculos e simulações.
