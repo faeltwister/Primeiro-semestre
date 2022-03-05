@@ -1,0 +1,4 @@
+Computador pode pensar? metodo para definir se uma máquina é inteligente.
+Teste se a máquina se passa por um humano.
+
+
